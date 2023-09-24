@@ -7,13 +7,13 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Pavan Agarwal',
-  role: 'Front End Engineer',
+  role: 'MS in Information Systems @ University of Wisconsin Madison',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'A Data Enthusiast who loves to solve complex problem using Cloud and Software. An experienced Data Engineer with leadership abilities, a quick learner, and a team player.',
+  resume: 'https://drive.google.com/file/d/1b3R0Jn4ImJ5hTJGCcBdVctANiJI9QF93/view?usp=drive_link',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/pavan-agarwal-0364a5144/',
+    github: 'https://github.com/ashishpavan',
   },
 }
 
@@ -49,18 +49,19 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'Project Management',
+  'Data Analysis',
+  'AWS Cloud',
+  'SQL',
+  'Python',
   'HTML',
   'CSS',
+  'Tableau',
+  'Machine Learning',
   'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Docker',
+  'Containerized Applications',
+
 ]
 
 const contact = {
