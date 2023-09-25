@@ -17,6 +17,48 @@ const about = {
   },
 }
 
+
+const education = [
+  {
+    name: 'University of Wisconsin Madison',
+    description: 'Masters in Computer Science',
+    stack: ['Sept 2023 - May 2025'],
+  },
+  {
+    name: 'BITS Pilani',
+    description: 'B.E in Computer Science + Minor in Data Science',
+    stack: ['Aug 2017 - Jun 2021', 'GPA: 9.04/10'],
+  },
+]
+
+
+const experience = [
+  {
+    name: 'Microsoft',
+    description:
+      'Full stack software engineer in the Viva Learning Search team developing applications across web client, mobile and backend using React.js, Typescript, React Native and C#',
+    stack: ['HYD, India', 'Jul 2021 - Aug 2023'],
+  },
+  {
+    name: 'Amazon',
+    description:
+      'Backend software development intern in the custoemr returns team involved in application enhancement using Java and AWS tools like S3, ElasticSearch, Lambda, Sushi',
+    stack: ['HYD, India', 'Jan 2021 - Jun 2021'],
+  },
+  {
+    name: 'Walmart Labs',
+    description:
+      'Frontend developer intern involved in persisting conversations in a chatbot and proposing various approaches to achieve historical conversations using Typescript, React.js, Azure Bot Service',
+    stack: ['BLR, India', 'May 2020 - Jul 2020'],
+  },
+  {
+    name: 'MapMyIndia',
+    description:
+      'Backend infrastructure intern involved in migrating the existing geospatial application infrastructure to an open source based model using Kafka, AWS S3, Docker and Bash',
+    stack: ['DEL, India', 'May 2019 - Jul 2019'],
+  },
+]
+
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
@@ -69,4 +111,4 @@ const contact = {
   email: 'agrawalpavan755@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, skills, contact,education, experience }
