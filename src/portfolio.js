@@ -22,12 +22,12 @@ const education = [
   {
     name: 'University of Wisconsin Madison',
     description: 'Masters in Computer Science',
-    stack: ['Sept 2023 - May 2025'],
+    stack: ['Sept 2023 - Dec 2024'],
   },
   {
-    name: 'BITS Pilani',
-    description: 'B.E in Computer Science + Minor in Data Science',
-    stack: ['Aug 2017 - Jun 2021', 'GPA: 9.04/10'],
+    name: 'University of Mumbai',
+    description: 'B.E in Computer Science',
+    stack: ['Aug 2017 - Jun 2021', 'GPA: 9.54/10'],
   },
 ]
 
@@ -111,4 +111,4 @@ const contact = {
   email: 'agrawalpavan755@gmail.com',
 }
 
-export { header, about, projects, skills, contact,education, experience }
+export { header, about, projects, skills, contact, education, experience }
