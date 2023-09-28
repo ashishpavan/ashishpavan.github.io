@@ -23,7 +23,7 @@ const Navbar = () => {
         style={{ display: showNavList ? 'flex' : null }}
         className='nav__list'
       >
-        {projects.length ? (
+        {education.length ? (
           <li className='nav__list-item'>
             <a
               href='#education'
@@ -34,7 +34,7 @@ const Navbar = () => {
             </a>
           </li>
         ) : null}
-        {projects.length ? (
+        {experience.length ? (
           <li className='nav__list-item'>
             <a
               href='#experience'

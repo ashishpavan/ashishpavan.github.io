@@ -25,8 +25,8 @@ const education = [
     stack: ['Sept 2023 - Dec 2024'],
   },
   {
-    name: 'University of Mumbai',
-    description: 'B.E in Computer Science',
+    name: 'University of Mumbai, India',
+    description: 'B.E. in Computer Science',
     stack: ['Aug 2017 - Jun 2021', 'GPA: 9.54/10'],
   },
 ]
@@ -34,29 +34,17 @@ const education = [
 
 const experience = [
   {
-    name: 'Microsoft',
+    name: 'Quantiphi Inc',
     description:
-      'Full stack software engineer in the Viva Learning Search team developing applications across web client, mobile and backend using React.js, Typescript, React Native and C#',
-    stack: ['HYD, India', 'Jul 2021 - Aug 2023'],
+      'A Data Engineer/Analyst involved in building multiple AWS Data Pipeline using Python/Pyspark/SQL and AWS Cloud tools like AWS Redshift, AWS Lambda, AWS S3, AWS Glue ',
+    stack: ['Mumbai, India', 'Nov 2021 - Aug 2023'],
   },
   {
-    name: 'Amazon',
+    name: 'Quantiphi Inc',
     description:
       'Backend software development intern in the custoemr returns team involved in application enhancement using Java and AWS tools like S3, ElasticSearch, Lambda, Sushi',
-    stack: ['HYD, India', 'Jan 2021 - Jun 2021'],
-  },
-  {
-    name: 'Walmart Labs',
-    description:
-      'Frontend developer intern involved in persisting conversations in a chatbot and proposing various approaches to achieve historical conversations using Typescript, React.js, Azure Bot Service',
-    stack: ['BLR, India', 'May 2020 - Jul 2020'],
-  },
-  {
-    name: 'MapMyIndia',
-    description:
-      'Backend infrastructure intern involved in migrating the existing geospatial application infrastructure to an open source based model using Kafka, AWS S3, Docker and Bash',
-    stack: ['DEL, India', 'May 2019 - Jul 2019'],
-  },
+    stack: ['Mumbai, India', 'July 2021 - Nov 2021'],
+  }
 ]
 
 const projects = [
