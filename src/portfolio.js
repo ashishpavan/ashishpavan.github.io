@@ -34,15 +34,15 @@ const education = [
 
 const experience = [
   {
-    name: 'Quantiphi Inc',
+    name: 'Quantiphi Inc | Full time ',
     description:
-      'A Data Engineer/Analyst involved in building multiple AWS Data Pipeline using Python/Pyspark/SQL and AWS Cloud tools like AWS Redshift, AWS Lambda, AWS S3, AWS Glue ',
+      'A Data Engineer/Analyst involved in building multiple AWS Data Pipeline using Python, Pyspark, SQL and AWS Cloud services like AWS Redshift, AWS Lambda, AWS S3, AWS Glue ',
     stack: ['Mumbai, India', 'Nov 2021 - Aug 2023'],
   },
   {
-    name: 'Quantiphi Inc',
+    name: 'Quantiphi Inc | Intern ',
     description:
-      'Backend software development intern in the custoemr returns team involved in application enhancement using Java and AWS tools like S3, ElasticSearch, Lambda, Sushi',
+      'A Framework Intern involved in building scalable application and finding avenues for new business generation by system analysis using Python , Machine learning and Data Pre-processing',
     stack: ['Mumbai, India', 'July 2021 - Nov 2021'],
   }
 ]
@@ -51,47 +51,50 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Flight Reservation System',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Built a modern web application to book real-time flight tickets using OLTP MYSQL backend database.',
+    stack: ['PHP','JavaScript', 'HTML','CSS','MYSQL','Miro'],
+    sourceCode: 'https://github.com/ashishpavan/Flight-Reservation-System'
   },
   {
-    name: 'Project 2',
+    name: 'SVM-KNN implementation to recognize character',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A professional desktop application to predict hand written characters from the app using Machine learning models SVM, KNN',
+    stack: ['Python', 'Machine Learning'],
+    sourceCode: 'https://github.com/ashishpavan/Hand-written-character-Recognition-Not-using-CNN'
   },
   {
-    name: 'Project 3',
+    name: 'Property Datamart',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Build a backend job for migrating raw data from On-premise to AWS Cloud using Python, Pyspark & SQL with 100% date integrity',
+    stack: ['Pyspark','Python', 'AWS', 'SQL']
+  },
+  {
+    name: 'Combined Loss Run API',
+    description:
+      'Developed a AWS cloud API that generates policy loss information using given input parameters',
+    stack: ['AWS','Node.js','HTML', 'CSS', 'JavaScript', 'Docker' ]
   },
 ]
 
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'Project Management',
-  'Data Analysis',
-  'AWS Cloud',
-  'SQL',
   'Python',
+  'Machine Learning',
+  'Scikit-Learn',
+  'PySpark',
+  'Data Analysis',
+  'AWS Cloud Certified',
+  'Tableau',
+  'SQL',
+  'Data Visualization',
   'HTML',
   'CSS',
-  'Tableau',
-  'Machine Learning',
   'JavaScript',
   'Docker',
-  'Containerized Applications',
-
+  'Containerized Applications'
 ]
 
 const contact = {
