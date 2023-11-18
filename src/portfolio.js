@@ -22,7 +22,7 @@ const education = [
   {
     name: 'University of Wisconsin Madison',
     description: 'Masters in Information System and Technology',
-    stack: ['Sept 2023 - May 2025', 'GPA: 4/4'],
+    stack: ['Sept 2023 - May 2025', 'GPA: 4.0/4.0'],
   },
   {
     name: 'University of Mumbai, India',
