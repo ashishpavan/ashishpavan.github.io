@@ -21,8 +21,8 @@ const about = {
 const education = [
   {
     name: 'University of Wisconsin Madison',
-    description: 'Masters in Computer Science',
-    stack: ['Sept 2023 - Dec 2024'],
+    description: 'Masters in Information System and Technology',
+    stack: ['Sept 2023 - May 2025'],
   },
   {
     name: 'University of Mumbai, India',
