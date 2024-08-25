@@ -10,7 +10,7 @@ const about = {
   role: 'MS in Information Systems @ University of Wisconsin Madison',
   description:
     'A Data Enthusiast who loves to solve complex problem using Cloud and Software. An experienced Data Engineer with leadership abilities, a quick learner, and a team player.',
-  resume: 'https://drive.google.com/file/d/1b3R0Jn4ImJ5hTJGCcBdVctANiJI9QF93/view?usp=drive_link',
+  resume: 'https://drive.google.com/file/d/1-GsQiisXWJQ4frQ9cDC8kRJil3AFDvos/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/pavan-agarwal-0364a5144/',
     github: 'https://github.com/ashishpavan',
@@ -33,6 +33,12 @@ const education = [
 
 
 const experience = [
+  {
+    name: 'Tesla Inc',
+    description:
+      'A Data Engineer/Analyst involved in automating manufacturing quality checks using Airflow, Spark and Visualizing data using Tableau',
+    stack: ['Austin, United States', 'May 2024 - Present'],
+  },
   {
     name: 'Quantiphi Inc | Full time ',
     description:
@@ -84,6 +90,7 @@ const skills = [
   'Python',
   'Machine Learning',
   'Scikit-Learn',
+  'Airflow',
   'PySpark',
   'Data Analysis',
   'AWS Cloud Certified',
