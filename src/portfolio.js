@@ -34,19 +34,19 @@ const education = [
 
 const experience = [
   {
-    name: 'Tesla Inc',
+    name: 'Tesla Inc.',
     description:
       'A Data Engineer/Analyst involved in automating manufacturing quality checks using Airflow, Spark and Visualizing data using Tableau',
     stack: ['Austin, United States', 'May 2024 - Present'],
   },
   {
-    name: 'Quantiphi Inc | Full time ',
+    name: 'Quantiphi Inc. | Full time ',
     description:
       'A Data Engineer/Analyst involved in building multiple AWS Data Pipeline using Python, Pyspark, SQL and AWS Cloud services like AWS Redshift, AWS Lambda, AWS S3, AWS Glue ',
     stack: ['Mumbai, India', 'Nov 2021 - Aug 2023'],
   },
   {
-    name: 'Quantiphi Inc | Intern ',
+    name: 'Quantiphi Inc. | Intern ',
     description:
       'A Framework Intern involved in building scalable application and finding avenues for new business generation by system analysis using Python , Machine learning and Data Pre-processing',
     stack: ['Mumbai, India', 'July 2021 - Nov 2021'],
